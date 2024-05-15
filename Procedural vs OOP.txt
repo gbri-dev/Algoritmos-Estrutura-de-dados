@@ -1,0 +1,5 @@
+Programação Procedural
+Também conhecida como programação procedural, ela  modulariza instruções em procedimentos e os procedimentos contêm um conjunto de passos a serem executado em cascata.
+
+Programação Orientada a objetos
+Na orientação a objetos a ideia é que tudo são classes e objetos são às instâncias da classe. As classes agrupam atributos e métodos e os métodos expoe as funções que operam seus dados.
