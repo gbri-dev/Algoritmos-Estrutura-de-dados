@@ -3,3 +3,19 @@ Também conhecida como programação procedural, ela  modulariza instruções em
 
 Programação Orientada a objetos
 Na orientação a objetos a ideia é que tudo são classes e objetos são às instâncias da classe. As classes agrupam atributos e métodos e os métodos expoe as funções que operam seus dados.
+
+Algoritmo "Acordando pela manhã"
+var
+   hora: inteiro
+inicio
+   escreva("Que horas são? (Digite um valor entre 0 e 23): ")
+   leia(hora)
+
+   se hora >= 6 e hora < 12 entao
+      escreva("Bom dia! Hora de acordar e começar o dia.")
+   senao se hora >= 12 e hora < 18 entao
+      escreva("Boa tarde! Hora de almoçar e continuar suas atividades.")
+   senao
+      escreva("Boa noite! Hora de descansar e dormir.")
+   fimse
+fimalgoritmo
